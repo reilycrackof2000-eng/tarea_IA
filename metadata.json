@@ -1,0 +1,6 @@
+{
+  "name": "ApexPC Pro Hub",
+  "description": "High-Priority Predictive AI Diagnostic Gate & Component Configurator for Enterprise Hardware Management",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
